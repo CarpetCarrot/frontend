@@ -1,0 +1,6 @@
+We collect a unique conversation id as supplied by OpenAI.
+If you access the dashboard, your IP will be visible to: github, because the dashboard is hosted there, and Unity, because they relay dashboard activity to the server.
+If you access the dashboard, we will have access to your PlayerID as supplied by Unity.
+We do not have access to your IP. 
+We retain all interactions with our server. 
+Use of our service should be considered non-secure.  
